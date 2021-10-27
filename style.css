@@ -1,0 +1,20 @@
+body{
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+}
+b{
+    color: yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.heading{
+    width: 900;
+    font-size: 45;
+}
+#webcam_html,#result{
+    width: 400;
+    height: 400;
+
+    border-style: outset;
+    border-color: black;
+    border-width: 5px;
+
+}
